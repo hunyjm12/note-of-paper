@@ -23,3 +23,6 @@
 ### 不均匀性产生的PBH
   PBH最重要的特点之一是可以对早期宇宙的密度扰动谱给出限制
   * 简化的假设：形成PBH的致密区域为球对称且部分为closed Friedmann model
+  * 给出了坍缩成黑洞的区域比例与扰动均方根振幅的关系：![](https://github.com/hunyjm12/picture-of-note/blob/master/Snipaste_2019-10-05_00-23-13.png?raw=true)
+  振幅越大，该质量的区域坍缩成黑洞的比例越大
+  * 
