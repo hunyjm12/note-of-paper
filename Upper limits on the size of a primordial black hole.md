@@ -5,4 +5,4 @@
 \
 [这篇论文](http://sci-hub.tw/https://aapt.scitation.org/doi/full/10.1119/1.5045333)在introduction的第一段给出了宇宙学中不同"horizon"的不同含义，其中(ii)的一个例子就是黑洞的视界。
 
-* 
+* introduction的二三段是真读不懂…… 
